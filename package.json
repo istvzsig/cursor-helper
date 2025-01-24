@@ -1,0 +1,16 @@
+{
+  "name": "cursor-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/istvzsig/cursor-helper.git"
+  },
+  "author": "istvzsig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/istvzsig/cursor-helper/issues"
+  },
+  "homepage": "https://github.com/istvzsig/cursor-helper#readme",
+  "description": ""
+}
