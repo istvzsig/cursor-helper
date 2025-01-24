@@ -1,9 +1,9 @@
 // example.js
 
-const CursorHelper = require('./cursorHelper');
+import CursorHelper from './index.js';
 
 const dbUrl = 'mongodb://localhost:27017'; // Replace with your MongoDB URL
-const dbName = 'testdb'; // Replace with your database name
+const dbName = 'test'; // Replace with your database name
 
 async function run() {
     const cursorHelper = new CursorHelper(dbUrl, dbName);
