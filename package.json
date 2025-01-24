@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "cursor-helper",
   "version": "1.0.0",
   "main": "index.js",
@@ -12,5 +13,8 @@
     "url": "https://github.com/istvzsig/cursor-helper/issues"
   },
   "homepage": "https://github.com/istvzsig/cursor-helper#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "mongodb": "^6.12.0"
+  }
 }
